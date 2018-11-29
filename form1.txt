@@ -5,7 +5,13 @@ w
 e
 xdfjtzdt
 xyxt
+<<<<<<< Updated upstream
 a
 b
 c
 d
+=======
+hi
+ha
+ha
+>>>>>>> Stashed changes
